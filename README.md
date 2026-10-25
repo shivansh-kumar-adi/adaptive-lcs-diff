@@ -168,4 +168,4 @@ Course: CSE 204, Design and Analysis of Algorithms
 
 ## License
 
-To be decided. Add a `LICENSE` file (for example MIT) before accepting contributions.
+Released under the [MIT License](LICENSE).
