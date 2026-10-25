@@ -168,4 +168,4 @@ Course: CSE 204, Design and Analysis of Algorithms
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE.md).
